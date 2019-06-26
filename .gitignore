@@ -1,3 +1,8 @@
+# Pycharm ignore
+.DS_Store
+.idea/
+TODO.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
